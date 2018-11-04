@@ -1,0 +1,13 @@
+.page-title {
+  margin-bottom: 2.5rem;
+  margin-top: 2.5rem;
+
+}
+
+.grid-x {
+  justify-content: center;
+}
+
+input[type=search] {
+  box-shadow: none;
+}
